@@ -9,8 +9,7 @@ package com.coderbyte.challenges;
 public class FirstReverse {
 
 	public static void main(String[] args) {
-
-		System.out.println(FirstReverse("I Love Code"));
+		System.out.println("Output: " + FirstReverse("I Love Code"));
 	}
 
 	private static String FirstReverse(String str) {
